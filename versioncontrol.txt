@@ -1,0 +1,19 @@
+Version Control Best Practice
+
+1. Create an issue starting with following type indicator:
+    feat: The new feature you're adding to a particular application
+    fix: A bug fix
+    style: Feature and updates related to styling
+    refactor: Refactoring a specific section of the codebase
+    test: Everything related to testing
+    docs: Everything related to documentation
+    chore: Regular code maintenance.
+2. Create a new branch with the issue id (issue + issue id). 
+    Always code inside this branch.
+3. When you do a commit follow these simple rules:
+    Specify the type of commit using the type indicator above;
+    Always indicate the issue id;
+    Provide a short description of what you did.
+
+
+First video link: https://www.loom.com/share/92c5cfe09da64e61832f1716c8c14251
